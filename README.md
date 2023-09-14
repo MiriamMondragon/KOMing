@@ -9,6 +9,7 @@ You can watch this project functionalities in the video demo for [KOMing Project
 - Allow passangers and packages to be recorded with all relevant information.
 - Allow editing of information or cancellation of travels and package delivery.
 - Provide unique tickets and reports to allow passangers to identify themselves and track their things.
+  ![Screenshot of the project.](/recursos/Ticket.PNG)
 - List the total travels or relevant ticket sales between cities, using filters, or textual search.
 - Allow recording relevant information of company employees, editing and deactivation.
 - Record the assignment of packages to an employee and generate reports on this process.
