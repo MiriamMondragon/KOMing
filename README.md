@@ -3,7 +3,7 @@
 <kbd>SQL Server</kbd> <kbd>Transact SQL</kbd> <kbd>DataBase Design</kbd> <kbd>PHP</kbd> <kbd>FPDF</kbd> <kbd>Bootstrap</kbd> <kbd>JavaScript</kbd> <kbd>jQuery</kbd> <kbd>Transportation</kbd> <kbd>Package Delivery</kbd>
  
  ## Video Demo
-You can watch this project functionalities in the video demo for [KOMing Project](https://youtu.be/1WyjjNZNAgg).
+You can watch this project functionalities in the video demo for [KOMing Project](https://youtube.com/watch?v=q8OIQKo53-U&si=TbPsRSClFT9bdVjO).
 
  ## Functionality and Usage
 - Allows passangers and packages to be recorded with all relevant information.
